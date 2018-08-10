@@ -1,0 +1,118 @@
+body{
+    background: grey;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+     }
+
+
+
+header {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color:grey;
+    border-style: 100px;
+    background-color:white;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right:100px;
+    }
+
+nav {
+    text-align: center;
+    color:grey;
+    border-style: 100px;
+    background-color:white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right:100px;
+    margin-bottom:20px;
+}
+
+
+section {
+    display:inline-block;
+    color:grey;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom:5px;
+    border-style: solid 10px;
+    background-color: white;
+    float: left;
+    width: 46%;
+    margin-left:100px;
+    margin-bottom:20px;
+    margin-right:10px
+
+    }
+
+aside {
+        display:inline-block;
+        text-align:center;
+        padding-top: 30px;
+        padding-bottom: 255px;
+        color:grey;
+        border-style: 100px;
+        background-color:white;
+        margin-left: 10px;
+        margin-right:100px;
+        margin-bottom: 20px;
+        float:right;
+        width:36%
+        
+    
+
+        }
+
+footer{
+        text-align: center;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        color:grey;
+        border-style: 100px;
+        background-color:white;
+        margin-top: 10px;
+        margin-left: 100px;
+        margin-right:100px;
+        clear:both;
+          }
+
+article{
+        color:white;
+        border-style: solid 10px;
+        background-color:grey;
+        margin-top:30px;
+        margin-left:25px;
+        margin-right:25px;
+        margin-bottom:15px;
+        padding-top: 30px;
+        padding-bottom:10px;
+    
+     }
+
+
+h1{
+    color:grey;
+    border-style:solid 10px;
+    background-color:white;
+    margin-left:50px;
+    margin-right:50px;
+    margin-bottom:-7px;
+    padding-top:15px;
+    padding-bottom:15px;
+}
+
+p{
+    color:grey;
+    border-style:solid 10px;
+    background-color:white;
+    margin-left:50px;
+    margin-right:50px;
+    margin-bottom:20px;
+    padding-top:15px;
+    padding-bottom:15px;
+  
+}
+
+    
